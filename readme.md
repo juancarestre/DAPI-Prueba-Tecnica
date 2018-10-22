@@ -1,4 +1,4 @@
-#Prueba tecnica Dapi (Digital Americas Pipeline Initiative)
+# Prueba tecnica Dapi (Digital Americas Pipeline Initiative)
 
 #### Extrae texto de fotos de facturas, lo modela bajo archivos JSON e intenta extraer información especifica para colocarla en CSV
 #### Hace uso de Boto3, API de AMAZON
